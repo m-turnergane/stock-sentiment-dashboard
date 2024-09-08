@@ -4,6 +4,8 @@
 
 This project is a web-based dashboard that provides comprehensive stock analysis by combining financial data, news sentiment, and sector comparisons. It uses natural language processing and machine learning techniques to analyze recent news articles and generate insights about a given stock.
 
+https://github.com/user-attachments/assets/00b2cf74-215c-4abf-a384-7fd86c54e1da
+
 ## Features
 
 - Stock Information Retrieval: Accepts both stock tickers and common company names as input
